@@ -6,7 +6,7 @@ const seconds = document.querySelector("#seconds");
 
 
 const currentYear = new Date().getFullYear();
-const nextYear = new Date("2026");
+const nextYear = new Date("2027");
 updateCounter();
 
 function updateCounter() {
